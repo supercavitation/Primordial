@@ -97,7 +97,7 @@
 }, {
     "speciesId": "milotic",
     "fastMove": "DRAGON_TAIL",
-    "chargedMoves": ["SURF", "HYPER_BEAM"]
+    "chargedMoves": ["SURF", "BLIZZARD"]
 }, {
     "speciesId": "sealeo",
     "fastMove": "POWDER_SNOW",
