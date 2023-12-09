@@ -254,7 +254,7 @@
   },
   {
     "speciesId": "milotic",
-    "chargedMoves": ["SURF","HYPER_BEAM"],
+    "chargedMoves": ["SURF","BLIZZARD"],
     "weight": 8
   },
   {
