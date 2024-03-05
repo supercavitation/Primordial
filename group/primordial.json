@@ -117,7 +117,7 @@
 }, {
     "speciesId": "goodra",
     "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["MUDDY_WATER", "POWER_WHIP"]
+    "chargedMoves": ["AQUA_TAIL", "POWER_WHIP"]
 }, {
     "speciesId": "altaria",
     "fastMove": "DRAGON_BREATH",
