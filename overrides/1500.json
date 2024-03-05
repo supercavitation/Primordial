@@ -182,7 +182,8 @@
   },
   {
     "speciesId": "goodra",
-    "weight": 1
+    "chargedMoves": ["AQUA_TAIL","POWER_WHIP"],
+    "weight": 5
   },
   {
     "speciesId": "greninja",
